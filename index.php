@@ -373,7 +373,7 @@ if (isset($_POST['name']) && $_POST['name'] != ""  && isset($_POST['mail']) && $
                         <h6>Virtual Assistant</h6>
                     </div>
                 </div>
-                <p> Virtual Assistant is most trusted website designing and digital marketing agency. Your complete business solution at one place.</p>
+                <p> Virtual Assistant is most trusted website development and digital marketing agency. Your complete business solutions at one place and provide all solutions at just $5/hr.We provide services for all of your web development issues and problems at best price and with best quality.</p>
 
 
             </div>
